@@ -73,18 +73,18 @@
            "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
 		{
-           "key": "大像短剧",
-           "name": "🐬大像短剧.py",
-           "type": 3,
-           "api": "https://ghfast.top/https://github.com/aass6688/dong/blob/b20afc275c5137ccbf2cf6b72102970ed0399ad1/%E5%A4%A7%E8%B1%A1%E7%9F%AD%E5%89%A7.py"
+            "key": "dxdj",
+            "name": "🐬大像短剧.py",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aass6688/dong/4fd1129d244f6b73e7369005fff2024be02da8c6/大像短剧.py"
         },
 		{
-      "key": "ppx",
-      "name": "🐬皮皮虾.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/皮皮虾.py",
-      "ext": "http://43.248.117.123:4680"
-       },
+            "key": "ppx",
+            "name": "🐬皮皮虾.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/皮皮虾.py",
+            "ext": "http://43.248.117.123:4680"
+        },
 		{
 			"key": "fY",
 			"name": "🐬枫叶影院(关梯子使用)",
